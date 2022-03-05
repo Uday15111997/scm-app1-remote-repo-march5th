@@ -5,5 +5,8 @@ class A
 		System.out.println("aaaaaaaaaa");
 		System.out.println("bbbbbbbbbb");
 		System.out.println("bbbbbbbbbb");
+		System.out.println("cccccccccc");
+		System.out.println("cccccccccc");
+		System.out.println("cccccccccc");
 	}
 }
